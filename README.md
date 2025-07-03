@@ -12,7 +12,7 @@ A high-performance macOS window border tool written in Zig that highlights your 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/space-borders.git
+git clone https://github.com/tornikegomareli/space-borders.git
 cd space-borders
 
 # Build with optimizations
