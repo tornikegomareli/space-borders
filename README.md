@@ -128,4 +128,4 @@ MIT License - see LICENSE file for details
 ## Acknowledgments
 
 - Built with [Zig](https://ziglang.org/)
-- Inspired by [SketchyBar](https://github.com/FelixKratz/SketchyBar), [yabai](https://github.com/koekeishiya/yabai) and [Amethyst](https://github.com/ianyh/Amethyst)
+- Inspired by [SketchyBar](https://github.com/FelixKratz/SketchyBar)
